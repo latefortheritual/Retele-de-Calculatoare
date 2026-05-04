@@ -1,0 +1,4 @@
+files/
+local_files/
+__pycache__/
+*.pyc
